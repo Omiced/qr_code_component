@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/Omiced/qr_code_component)
-- Live Site URL: [](https://omiced.github.io/qr_code_component/)
+- Solution URL: [Repo](https://github.com/Omiced/qr_code_component)
+- Live Site URL: [Web](https://omiced.github.io/qr_code_component/)
 
 ## My process
 
